@@ -1,2 +1,3 @@
 # hello-world
-Let's learn GitHub!
+Hello friend!
+I finally found a project to contribute to, so let's learn GitHub!
